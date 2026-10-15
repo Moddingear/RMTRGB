@@ -1,0 +1,20 @@
+{
+  "name": "RMTRGB",
+  "version": "1.0.0",
+  "description": "A library to control WS2812B-like individually addressable RGB LEDs",
+  "keywords": "ws2812, rgb, neopixel, addressable, ws2812b, rmt, hardware, peripheral",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Moddingear/rmtrgb.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Moddingear"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "esp-idf, arduino",
+  "platforms": "espressif32"
+}
